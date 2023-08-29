@@ -8,7 +8,7 @@ title: Student Blog
 This works!
 
 ## Freeform Picture
-![hi](https://cdn.discordapp.com/attachments/728322409387786250/1143737117797789808/IMG_8137.png)
+![Freeform](freeform.jpg)
 
 ## School schedule:
 - Period 1: CSP
