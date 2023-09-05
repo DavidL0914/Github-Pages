@@ -4,15 +4,9 @@ title: Student Blog
 ---
 
 
-## Testing markdown changes
-This works!
+# David Lee's Lab Notebook!
 
-## Freeform Picture
+## About Me:
+I'm David Lee and I'm a junior at Del Norte High School. Some of my hobbies include volleyball, eating, and playing with my cat named Simba. Below are drawings that basically summarize who I am:
+
 ![Freeform](freeform.jpg)
-
-## School schedule:
-- Period 1: CSP
-- Period 2: AP Stats
-- Period 3: APUSH
-- Period 4: AP Physics
-- Period 5: APEL
