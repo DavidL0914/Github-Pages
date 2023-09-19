@@ -93,5 +93,8 @@ type: hacks
     }
 </script>
 
+## Visual illustration of algorithm
+![Flowchart](../images/flowchart.jpg)
+
 </body>
 </html>
