@@ -5,7 +5,7 @@ layout: post
 title: GPA Calculator
 description: A GPA Calculator built with js!
 courses: { csp: {week: 3} }
-type: tangibles
+type: hacks
 ---
 
 <html>
