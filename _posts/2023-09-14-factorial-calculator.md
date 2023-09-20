@@ -92,9 +92,9 @@ type: hacks
         return result;
     }
 </script>
-
-## Visual illustration of algorithm
-![Flowchart](../images/flowchart.jpg)
-
+<br>
 </body>
 </html>
+
+## Visual illustration of algorithm
+![Flowchart](https://cdn.discordapp.com/attachments/728322409387786250/1154100776877174826/0.png)
