@@ -25,7 +25,6 @@ type: hacks
             padding: 20px;
             background-color: #fff;
             border-radius: 5px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
         }
         h1 {
             color: #333;
@@ -55,9 +54,9 @@ type: hacks
         <button id="calculate">Calculate Factorial</button>
         <p id="result"></p>
     </div>
+
 <script>
-    // JavaScript for handling the UI and factorial calculation
-    
+
     // Add an event listener to the 'calculate' button
     document.getElementById('calculate').addEventListener('click', function () {
         // Get the input value as a number
@@ -93,8 +92,7 @@ type: hacks
     }
 </script>
 <br>
+<h1>Visual illustration of algorithm</h1>
+<img src="https://cdn.discordapp.com/attachments/728322409387786250/1154100776877174826/0.png">
 </body>
 </html>
-
-## Visual illustration of algorithm
-![Flowchart](https://cdn.discordapp.com/attachments/728322409387786250/1154100776877174826/0.png)
