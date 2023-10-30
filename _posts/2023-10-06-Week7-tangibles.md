@@ -2,9 +2,9 @@
 toc: False
 comments: True
 layout: post
-title: Week 6 Accomplishments
-description: What we accomplished during week 6
-courses: {'csp': {'week': 6 }}
+title: Week 7 Accomplishments
+description: What we accomplished during week 7
+courses: {'csp': {'week': 7 }}
 type: tangibles
 ---
 
