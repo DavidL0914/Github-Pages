@@ -26,35 +26,30 @@ This review contains:
 ## My contributions:
 * Created landing page to site
 * Created forum (blogging feature) for users to write posts about their favorite recipes for other users to see
-  
 <br>
 
-**Frontend Code**:
+* **Frontend Code:**
 ![submitImage](https://github.com/DavidL0914/student/assets/67357222/6e0612f2-dea7-4515-8231-cb0dea7c1705)
-submitImage function - handles submission of image data to the backend using the Fetch API: includes error handling and updates the UI accordingly.
-
+* submitImage function - handles submission of image data to the backend using the Fetch API: includes error handling and updates the UI accordingly.
 <br>
 
-**Frontend Code**
+* **Frontend Code:**
 ![fetchImages](https://github.com/DavidL0914/student/assets/67357222/32a0b75c-9b3a-4dd6-9ae0-bac0a7f3fcd1)
-fetchImages function - retrieves and displays recipes posted by other users, including both their usernames and post's content.
-
+* fetchImages function - retrieves and displays recipes posted by other users, including both their usernames and post's content.
 <br>
 
-**Frontend Code**
+* **Frontend Code:**
 ![deletePost](https://github.com/DavidL0914/student/assets/67357222/2760418f-65cb-44c1-9942-8acb2a9c26a9)
-deletePost function - sends a request to the backend to delete the specified post (only works if logged in as correct user)
-
+* deletePost function - sends a request to the backend to delete the specified post (only works if logged in as correct user)
 <br>
 
-**Backend code**
+* **Backend code**
 ![Backend](https://github.com/DavidL0914/student/assets/67357222/1f437050-5826-4235-b3cd-59f0b311c16c)
-Setting up backend to run all the code above on frontend
+* Setting up backend to run all the code above on frontend
 
 ## Preparation of code before coding
 **Issues/Initial Planning:**
 [Issues Link](https://github.com/DavidL0914/frontcasts/issues/2)
-
 <br>
 
 **UI Design**
